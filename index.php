@@ -10,7 +10,7 @@ define('DB_USER', 'if0_40645632');
 define('DB_PASS', '1UUJDXhPW3O');
 
 // Configuration API Oreus/Alogo
-define('OREUS_API_KEY', 'or_f6e6e03b37835072fce65c55ce845ae89a10dd09b35726be785fc423');
+define('OREUS_API_KEY', 'API KEYS');
 define('OREUS_API_URL', 'https://oreus-staging.dev2.dev-id.fr/api/v1/sdk/chat/completions');
 
 session_start();
