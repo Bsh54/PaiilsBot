@@ -4,10 +4,10 @@
 // ============================================
 
 // Configuration de la base de données
-define('DB_HOST', 'sql100.infinityfree.com');
-define('DB_NAME', 'if0_40645632_opportunites_db');
-define('DB_USER', 'if0_40645632');
-define('DB_PASS', '1UUJDXhPW3O');
+define('DB_HOST', '');
+define('DB_NAME', '');
+define('DB_USER', '');
+define('DB_PASS', '');
 
 // Configuration API Oreus/Alogo
 define('OREUS_API_KEY', 'API KEYS');
